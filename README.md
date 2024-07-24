@@ -24,3 +24,4 @@
 - ROAM_CONVERSATION: true/false 是否开启漫游
 - LOG_OUT_AS_GO_TO_LIST: true/false 是否将左下角退出直接跳转到选车页面（即无需清空Session）
 - SUIT_FOR_SHARE_IN_SESSION: 是否使用默认 SESSION，以兼容其他项目
+- YES_CAPTCHA: 打码密钥
